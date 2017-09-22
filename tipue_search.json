@@ -1,0 +1,22 @@
+{
+    "pages": [
+        {
+            "title": "Test Post 2", 
+            "text":"Second test post.", 
+            "tags": "test", 
+            "loc": "http://blog.xonom.com/test-post-2.html"
+        },
+        {
+            "title": "Test Post", 
+            "text":"First test post.", 
+            "tags": "test", 
+            "loc": "http://blog.xonom.com/test-post.html"
+        },
+        {
+            "title": "Hakkımda", 
+            "text":"Cenk Kulacoglu", 
+            "tags": "pages", 
+            "loc": "http://blog.xonom.com/pages/hakkimda.html"
+        }        
+    ]
+}
