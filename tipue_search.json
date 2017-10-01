@@ -7,18 +7,6 @@
             "loc": "http://blog.xonom.com/acm-aboneligi-ve-safari-books-online-erisimi.html"
         },
         {
-            "title": "Test Post 2", 
-            "text":"Second test post.", 
-            "tags": "Test", 
-            "loc": "http://blog.xonom.com/test-post-2.html"
-        },
-        {
-            "title": "Test Post", 
-            "text":"First test post.", 
-            "tags": "Test", 
-            "loc": "http://blog.xonom.com/test-post.html"
-        },
-        {
             "title": "Bağlantılar", 
             "text":"Yararlı olabilecek bağlantılar", 
             "tags": "pages", 
