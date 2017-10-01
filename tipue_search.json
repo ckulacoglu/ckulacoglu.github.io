@@ -13,6 +13,12 @@
             "loc": "http://blog.xonom.com/test-post.html"
         },
         {
+            "title": "Faydalı Bağlantılar", 
+            "text":"Yararlı olabilecek bağlantılar", 
+            "tags": "pages", 
+            "loc": "http://blog.xonom.com/pages/faydali-baglantilar.html"
+        },
+        {
             "title": "Hakkımda", 
             "text":"Cenk Kulacoglu", 
             "tags": "pages", 
