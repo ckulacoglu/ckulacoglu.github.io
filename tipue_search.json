@@ -3,20 +3,20 @@
         {
             "title": "Test Post 2", 
             "text":"Second test post.", 
-            "tags": "test", 
+            "tags": "Test", 
             "loc": "http://blog.xonom.com/test-post-2.html"
         },
         {
             "title": "Test Post", 
             "text":"First test post.", 
-            "tags": "test", 
+            "tags": "Test", 
             "loc": "http://blog.xonom.com/test-post.html"
         },
         {
-            "title": "Faydalı Bağlantılar", 
+            "title": "Bağlantılar", 
             "text":"Yararlı olabilecek bağlantılar", 
             "tags": "pages", 
-            "loc": "http://blog.xonom.com/pages/faydali-baglantilar.html"
+            "loc": "http://blog.xonom.com/pages/baglantilar.html"
         },
         {
             "title": "Hakkımda", 
