@@ -45,11 +45,11 @@ a {
   .uk-navbar-toggle:hover, .uk-navbar-toggle:focus {
     color: white; }
 
-.uk-nav-offcanvas > li > a {
+.uk-nav-offcanvas > ul > li > a {
   border-top: 1px solid rgba(0, 0, 0, 0.3);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.05);
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); }
-  .uk-nav-offcanvas > li > a:last-child {
+  .uk-nav-offcanvas > ul > li > a:last-child {
     border-bottom: 1px solid rgba(0, 0, 0, 0.3); }
 .uk-nav-offcanvas .uk-nav-divider {
   border-top: 1px solid rgba(255, 255, 255, 0.01);
@@ -123,9 +123,9 @@ a {
 .mg-icons-small {
   margin-bottom: 1em; }
 
-.mg-icons-small > li > a {
+.mg-icons-small > ul > li > a {
   color: white; }
-  .mg-icons-small > li > a:hover {
+  .mg-icons-small > ul > li > a:hover {
     color: white; }
 .mg-icons-small .uk-icon-rss {
   background-color: #FF6600; }
