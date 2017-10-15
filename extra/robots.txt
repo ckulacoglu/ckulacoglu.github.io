@@ -1,3 +1,0 @@
-Sitemap: https://blog.xonom.com/sitemap.xml
-User-agent: *
-Disallow: /images

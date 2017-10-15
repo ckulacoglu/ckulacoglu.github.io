@@ -1,1 +1,0 @@
-# ckulacoglu.github.io
